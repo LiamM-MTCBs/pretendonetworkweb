@@ -65,8 +65,6 @@ Place the downloaded `Inkay-pretendo.wps` file on your SD card at `sd:/wiiu/envi
 
 <img src="/assets/images/docs/install/wiiu/aroma/sd-card.png" width="100%">
 
-Place the downloaded `30_nimble.rpx` file on your SD card at `sd:/wiiu/environments/aroma/modules/setup`. It's normal for other Aroma modules to be in this folder too.
-
 Place your SD card back into your console and boot like normal. You should see a notification of your connection:
 
 <img src="/assets/images/docs/install/wiiu/aroma/working-notification.jpg" width="100%">
@@ -111,6 +109,13 @@ Once your account is registered, link it to your console as you would a Nintendo
 Create the Pretendo Network ID as you would a Nintendo Network ID.
 
 ## After you set up your PNID on your Wii U.
+Shut off your console, and put the SD Card into your PC.
+
+Place the downloaded `30_nimble.rpx` file on your SD card at `sd:/wiiu/environments/aroma/modules/setup`. It's normal for other Aroma modules to be in this folder too.
+
+<img src="/assets/images/docs/install/wiiu/pnid/nimbus-sd.png" width="100%">
+
+Turn on your console
 
 Press `L + Down + SELECT` on the Wii U GamePad to open the Aroma plugin menu.
 
