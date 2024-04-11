@@ -55,11 +55,6 @@ Bleeding edge builds have not been widely tested, and do not guarantee any stabi
 
 <img src="/assets/images/docs/install/wiiu/aroma/inkay-nightly-link.png" width="100%">
 
-## Nimbus
-Nimbus is a Aroma plugin that allows your console to recive Spotpass data again. Download the latest version from [Nimbus's latest release](https://github.com/PretendoNetwork/Nimble/releases/latest) on GitHub and download the `30_nimble.rpx` file from the latest release.
-
-<img src="/assets/images/docs/install/wiiu/aroma/nimbus-install.png" width="100%">
-
 ## Installation
 Place the downloaded `Inkay-pretendo.wps` file on your SD card at `sd:/wiiu/environments/aroma/plugins`. It's normal for other Aroma plugins to be in this folder too.
 
@@ -107,23 +102,6 @@ Once your account is registered, link it to your console as you would a Nintendo
 
 ### Wii U
 Create the Pretendo Network ID as you would a Nintendo Network ID.
-
-## After you set up your PNID on your Wii U.
-Shut off your console, and put the SD Card into your PC.
-
-Place the downloaded `30_nimble.rpx` file on your SD card at `sd:/wiiu/environments/aroma/modules/setup`. It's normal for other Aroma modules to be in this folder too.
-
-<img src="/assets/images/docs/install/wiiu/pnid/nimbus-sd.png" width="100%">
-
-Turn on your console
-
-Press `L + Down + SELECT` on the Wii U GamePad to open the Aroma plugin menu.
-
-<img src="/assets/images/docs/install/wiiu/pnid/aroma-plugins-list.jpg" width="100%">
-
-Select 'Inkay', then choose BOSS settings, then click 'Unregister Wara Wara Plaza BOSS tasks'
-
-Restart your console.
 
 # Transferring save data to your Pretendo Network account
 
