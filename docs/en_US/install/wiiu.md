@@ -53,9 +53,9 @@ The stable builds have been widely tested to ensure everything works as intended
 ## Bleeding Edge
 Bleeding edge builds have not been widely tested, and do not guarantee any stability. Download the latest build from <a href="https://nightly.link/PretendoNetwork/Inkay/workflows/ci/main/inkay"  target="_blank">nightly</a>. Extract `inkay.zip`.
 
-## Nimble
 <img src="/assets/images/docs/install/wiiu/aroma/inkay-nightly-link.png" width="100%">
 
+## Nimble
 Nimble is a Aroma plugin that redirects the PolicyList servers to Pretendo's servers. This makes certain games (such as Splatoon) work with online play. Download the latest version from [Nimble's latest release](https://github.com/PretendoNetwork/Nimble/releases/latest) on GitHub and download the `30_nimble.rpx` file from the GitHub page.
 
 <img src="/assets/images/docs/install/wiiu/aroma/nimbus-install.png" width="100%">
